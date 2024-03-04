@@ -11,29 +11,29 @@ A minimalistic Figma clone with real-world features like live collaboration with
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Multi Cursors, Cursor Chat, and Reactions**: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
+👉 **Multi Cursors, Cursor Chat, and Reactions**
 
-👉 **Active Users**: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
+👉 **Active Users**
 
-👉 **Comment Bubbles**: Enables users to attach comments to specific elements on the canvas, fostering communication and feedback on design components.
+👉 **Comment Bubbles**
 
-👉 **Creating Different Shapes**: Provides tools for users to generate a variety of shapes on the canvas, allowing for diverse design elements
+👉 **Creating Different Shapes**
 
-👉 **Uploading Images**: Import images onto the canvas, expanding the range of visual content in the design
+👉 **Uploading Images**
 
-👉 **Customization**: Allows users to adjust the properties of design elements, offering flexibility in customizing and fine-tuning visual components
+👉 **Customization**
 
-👉 **Freeform Drawing**: Enables users to draw freely on the canvas, promoting artistic expression and creative design.
+👉 **Freeform Drawing**
 
-👉 **Undo/Redo**: Provides the ability to reverse (undo) or restore (redo) previous actions, offering flexibility in design decision-making
+👉 **Undo/Redo**
 
-👉 **Keyboard Actions**: Allows users to utilize keyboard shortcuts for various actions, including copying, pasting, deleting, and triggering shortcuts for features like opening cursor chat, reactions, and more, enhancing efficiency and accessibility.
+👉 **Keyboard Actions**
 
-👉 **History**: Review the chronological history of actions and changes made on the canvas, aiding in project management and version control.
+👉 **History**
 
-👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
+👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**
 
-and many more, including code architecture, advanced react hooks, and reusability
+and more, including code architecture, advanced react hooks, and reusability
 
 **Prerequisites**
 
@@ -47,7 +47,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone ?
-cd figma-ts
+cd 
 ```
 
 **Installation**
