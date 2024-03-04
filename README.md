@@ -11,27 +11,27 @@ A minimalistic Figma clone with real-world features like live collaboration with
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Multi Cursors, Cursor Chat, and Reactions**
+ **Uploading Images**
 
-👉 **Active Users**
+ **Customization**
 
-👉 **Comment Bubbles**
+ **Freeform Drawing**
 
-👉 **Creating Different Shapes**
+ **Undo/Redo**
 
-👉 **Uploading Images**
+ **Multi Cursors, Cursor Chat, and Reactions**
 
-👉 **Customization**
+ **Active Users**
 
-👉 **Freeform Drawing**
+ **Comment Bubbles**
 
-👉 **Undo/Redo**
+ **Creating Different Shapes**
 
-👉 **Keyboard Actions**
+ **Keyboard Actions**
 
-👉 **History**
+ **History**
 
-👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**
+ **Deleting, Scaling, Moving, Clearing, Exporting Canvas**
 
 and more, including code architecture, advanced react hooks, and reusability
 
